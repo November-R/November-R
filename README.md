@@ -8,28 +8,37 @@ I am an aspiring data scientist. Curentyly, I am focused on Machine learning, cr
 
 ## MY Tech Stack
 
+
 Languages: **Python(Pandas for data manipulation, Scikit-Learn for Machine Learning), SQL**
+
 Visualization: **Seaborn, matplotlib, PowerBi**
+
 Data Storage and Ware Housing: **Still Learning**
+
 Ml OPS & Deployment: **Still Learning**
+
 Machine Learning/Modelling: **PyTorch**
 
 
 ## Get in Touch 📬
+
 - 📫 email: **lumitigrace2021@gmail.com**
+  
 - linkedin: **https://www.linkedin.com/in/grace-sarah-50b92a277/**
 
 
 ## ⚡ Fun fact
  **Bare Bears and supa strikas is currently my favorite show**
 
+
 ## My Projects 🧠
+
 
 ### [House Prices Prediction]((https://github.com/November-R/Jupyter_Notebook_Projects/tree/main/house-prices-advanced-regression-techniques_dataset))
 
-<!--![Project 1 Screenshot](project_1_screenshot_url)--!>
-
-**House Prices Prediction** is a **machine learning model trained to predict house prices based on several variables such as the house quality, the surrounding neighbourhood, etc** built with **pyhton and pyhton libraries**. This project demonstrates my ability to **load and clean data, visualize data, linear regression, train a model using the train split method, refine the model prediction on house prices**. You can check out the repository [[here](project_1_repository_link).--!>](https://github.com/November-R/Jupyter_Notebook_Projects/tree/main/house-prices-advanced-regression-techniques_dataset)
+**House Prices Prediction** is a **machine learning model trained to predict house prices based on several variables such as the house quality, the surrounding neighbourhood, etc** built with **pyhton and pyhton libraries**. 
+This project demonstrates my ability to **load and clean data, visualize data, linear regression, train a model using the train split method, refine the model prediction on house prices**.
+You can check out the repository: (https://github.com/November-R/Jupyter_Notebook_Projects/tree/main/house-prices-advanced-regression-techniques_dataset)
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
