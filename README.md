@@ -44,4 +44,4 @@ A machine learning model thatPredicts whether a telecom customer will cancel the
 
 ## ⚡ Fun fact
 
-Currently binge-watching *Bare Bears* and *Supa Strikas* — great shows for a data scientist who appreciates good teamwork!
+Currently binge-watching *Bare Bears* and *Supa Strikas* 
