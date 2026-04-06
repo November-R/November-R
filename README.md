@@ -1,63 +1,47 @@
-# Hi there, I am Grace Lumiti 👋
+# Hi, I'm Grace Lumiti 👋
 
 ![Banner Image](https://i.pinimg.com/1200x/c5/ef/07/c5ef07f81716b315bbcecd7881631610.jpg)
 
-## About Me 🚀
+## About me
 
-I am an aspiring data scientist. Curentyly, I am focused on Machine learning, creating models for predicting different aspects in life, including House prices prediction, Customer churn Prediction, etc.
+I'm an aspiring data scientist passionate about turning raw data into meaningful predictions. Currently focused on machine learning — building models that solve real-world problems like predicting house prices and identifying customer churn. I'm advancing toward NLP and eventually deploying production-ready models.
 
-## MY Tech Stack
+## Tech stack
 
+**Languages:** Python · SQL
 
-Languages: **Python(Pandas for data manipulation, Scikit-Learn for Machine Learning), SQL**
+**Machine learning:** Scikit-learn · PyTorch · Linear regression · Logistic regression · Decision trees · Random forests
 
-Visualization: **Seaborn, matplotlib, PowerBi**
+**Data & visualization:** Pandas · Matplotlib · Seaborn · Power BI
 
-Data Storage and Ware Housing: **Still Learning**
+**Tools & environments:** Jupyter Notebooks · MySQL Workbench · Excel
 
-Ml OPS & Deployment: **Still Learning**
+**Currently learning:** NLP · MLOps & deployment · Data warehousing · Unsupervised Learning Models
 
-Machine Learning/Modelling: **PyTorch**
+## Projects 🧠
 
+### [House Prices Prediction](https://github.com/November-R/Jupyter_Notebook_Projects/tree/main/house-prices-advanced-regression-techniques_dataset)
 
-## Get in Touch 📬
+Predicts residential property sale prices using 79 features across 1,460 homes from the Ames Housing dataset. Includes thorough exploratory data analysis, missing value treatment, log transformation of the target variable, and a linear regression model achieving an R² of 0.90 and MAE of approximately 9% on unseen data.
 
-- 📫 email: **lumitigrace2021@gmail.com**
-  
-- linkedin: **https://www.linkedin.com/in/grace-sarah-50b92a277/**
+**Tech stack:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn · NumPy
+
+**Skills demonstrated:**  data cleaning · exploratory data analysis · missing value imputation · feature engineering · one-hot encoding · log transformation · linear regression · RMSE · MAE · residual analysis · coefficient interpretation
+
+### [Customer Churn Prediction Model](https://github.com/November-R/Customer_Churn_Prediction_Model))
+
+A machine learning model thatPredicts whether a telecom customer will cancel their subscription using real-world data from 7,000+ customers. Includes full exploratory data analysis, feature engineering, and a comparison of three progressively sophisticated models — with Gradient Boosting emerging as the best performer at 81% accuracy and 0.60 F1 score on the minority churn class..
+
+**Tech stack:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn
+
+**Skills demonstrated:** data cleaning · exploratory data analysis · one-hot encoding · class imbalance handling · decision trees · random forests · gradient boosting · classification metrics (precision, recall, F1) · confusion matrix interpretation
+
+## Get in touch 📬
+
+- 📫 Email: [lumitigrace2021@gmail.com](mailto:lumitigrace2021@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/grace-sarah-50b92a277](https://www.linkedin.com/in/grace-sarah-50b92a277/)
 
 
 ## ⚡ Fun fact
- **Bare Bears and supa strikas is currently my favorite show**
 
-
-## My Projects 🧠
-
-
-### [House Prices Prediction]((https://github.com/November-R/Jupyter_Notebook_Projects/tree/main/house-prices-advanced-regression-techniques_dataset))
-
-**House Prices Prediction** is a **machine learning model trained to predict house prices based on several variables such as the house quality, the surrounding neighbourhood, etc** built with **pyhton and pyhton libraries**. 
-This project demonstrates my ability to **load and clean data, visualize data, linear regression, train a model using the train split method, refine the model prediction on house prices**.
-You can check out the repository: (https://github.com/November-R/Jupyter_Notebook_Projects/tree/main/house-prices-advanced-regression-techniques_dataset)
-
-
-<!--![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)--!>
-<!--![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)--!>
-
-<!--*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*--!>
-
-<!--## Featured Projects 💻--!>
-
-<!--### [Project 1 Title](project_1_link)--!>
-
-<!--![Project 1 Screenshot](project_1_screenshot_url)--!>
-
-<!--**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).--!>
-
-<!--### [Project 2 Title](project_2_link)--!>
-
-<!--![Project 2 Screenshot](project_2_screenshot_url)--!>
-
-<!--**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can--!> <!--check out the repository [here](project_2_repository_link).--!>
-
-
+Currently binge-watching *Bare Bears* and *Supa Strikas* — great shows for a data scientist who appreciates good teamwork!
