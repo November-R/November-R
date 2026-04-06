@@ -28,7 +28,7 @@ Predicts residential property sale prices using 79 features across 1,460 homes f
 
 **Skills demonstrated:**  data cleaning · exploratory data analysis · missing value imputation · feature engineering · one-hot encoding · log transformation · linear regression · RMSE · MAE · residual analysis · coefficient interpretation
 
-### [Customer Churn Prediction Model](https://github.com/November-R/Customer_Churn_Prediction_Model))
+### [Customer Churn Prediction Model](https://github.com/November-R/Customer_Churning_Model/blob/main/Customer_Churn_Prediction.ipynb)
 
 A machine learning model thatPredicts whether a telecom customer will cancel their subscription using real-world data from 7,000+ customers. Includes full exploratory data analysis, feature engineering, and a comparison of three progressively sophisticated models — with Gradient Boosting emerging as the best performer at 81% accuracy and 0.60 F1 score on the minority churn class..
 
